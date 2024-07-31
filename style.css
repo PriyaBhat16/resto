@@ -1,0 +1,48 @@
+#navigation
+{
+    color: black;
+}
+
+h1{
+    background-color: darkslategrey;
+    color: white;
+    border-radius: 2cm;margin: 15px;
+}
+
+footer{
+    background-color: darkslategrey;
+    color: white;
+     height: 150px;
+     
+}
+
+#tajimg{
+    height: 250px;
+    width: 300px;
+}
+
+#contactForm{
+    background-color:cornsilk;
+    width: 100%;
+}
+
+.menu-card {
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+}
+
+.menu-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.menu-card img {
+    transition: transform 0.3s ease;
+}
+
+.menu-card:hover img {
+    transform: scale(1.2);
+}
+
+
